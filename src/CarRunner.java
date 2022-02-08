@@ -18,7 +18,7 @@ public class CarRunner {
         System.out.println(success2);
         System.out.println(lot.getInventory());
 
-
+        System.out.println("Changes");
 
 
     }
